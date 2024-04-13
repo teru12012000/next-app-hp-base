@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ようこそNext.jsの世界へ
 
-## Getting Started
+# 目次
+- [概要](#overview)
+- [はじめの一歩](#first)
+- [いざ実装！！！](#start)
 
-First, run the development server:
+<h2 id="overview">概要</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+ようこそハリーポッタ図鑑開発ディレクトリへ。
+皆さんもNex.jsを使ってハリーポッタ図鑑を書いてみませんか？？
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2 id="first">はじめの一歩</h2>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+このプロジェクトを動かす手順を記載していきます。
+その前に皆さん。cloneはお済みかな？してない方はcloneしてね〜🥰
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. `pnpm install`にてパッケージをインストールします
+1. `pnpm dev`でプロジェクトを起動します
 
-## Learn More
+> [!NOTE]
+> パッケージ管理は`pnpm`を使います。インストールされていない方は`npm install -g pnpm`でを実行しましょう。
 
-To learn more about Next.js, take a look at the following resources:
+<h2 id="start">いざ実装！！！！</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+それでは実装していきましょう！！！！！
+解説はハンズオンで行いまっす！
