@@ -25,7 +25,7 @@
 
 リポジトリがローカルに取得できたことを確認！！！
 
-- mac or linax : `ls -la`
+- mac or linux : `ls -la`
 - windows : `dir`
 
 で`next-app-hp-base`が入っていることを確認！！
