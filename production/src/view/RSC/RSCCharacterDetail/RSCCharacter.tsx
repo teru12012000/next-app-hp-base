@@ -8,7 +8,7 @@ export const RSCCharacter = async (props: props) => {
     //ここを書いてもらう
     return (
         <>
-            <div>{props.id}</div>
+            <div style={{ color: "white" }}>{props.id}</div>
             <CharacterDetailTemplate />
         </>
     )

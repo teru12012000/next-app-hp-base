@@ -1,10 +1,5 @@
-import Image from "next/image"
-import Link from "next/link"
-import { Loading } from "../loading"
 import styles from "./style.css"
-import { HPType } from "@/model/fetcher"
 import { BackButton } from "@/components/ui/backButton"
-//import { BackButton } from "@/components/ui/backButton"
 
 interface props {}
 
@@ -22,7 +17,7 @@ export const CharactersTemplate = (props: props) => {
 
             <section>
                 <div className={styles.itemImage}>
-                    ここにデータを集めたものを書く
+                    ここにデータを集めたものを書く 画像サイズは幅175、高さ250
                 </div>
             </section>
         </main>
